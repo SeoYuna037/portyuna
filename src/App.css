@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'HoengseongHanu';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2202@1.0/HoengseongHanu.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'HoengseongHanu', sans-serif;
+}
+a{
+  text-decoration: none;
+  color: unset;
+}
