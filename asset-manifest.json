@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portyuna/static/css/main.cc58c5f3.css",
+    "main.js": "/portyuna/static/js/main.1e57451f.js",
+    "static/media/sundaycoffe-img1.png": "/portyuna/static/media/sundaycoffe-img1.0e38f492b9f8b3bfe965.png",
+    "static/media/computer-front-color.png": "/portyuna/static/media/computer-front-color.f4a59002f46aa236c81d.png",
+    "static/media/cube-dynamic-color.png": "/portyuna/static/media/cube-dynamic-color.7704c24d99de1305e514.png",
+    "static/media/folder-dynamic-color.png": "/portyuna/static/media/folder-dynamic-color.24a4cc3b4e8f75839112.png",
+    "static/media/notify-heart-dynamic-gradient.png": "/portyuna/static/media/notify-heart-dynamic-gradient.94ea40853f2aa05b4eb7.png",
+    "static/media/mobile-dynamic-color.png": "/portyuna/static/media/mobile-dynamic-color.00755cc22e24dc9a98d8.png",
+    "static/media/sun-dynamic-color.png": "/portyuna/static/media/sun-dynamic-color.c6460f658b848b4687ea.png",
+    "static/media/lets-drink.png": "/portyuna/static/media/lets-drink.46e707f7b2079e120c7d.png",
+    "static/media/ImageGet.png": "/portyuna/static/media/ImageGet.2fbc74a3807887e71e3c.png",
+    "static/media/portfolio2.png": "/portyuna/static/media/portfolio2.92243d289cc00ddcaa4d.png",
+    "static/media/firebase.png": "/portyuna/static/media/firebase.bff5748e0ad72bf0c427.png",
+    "static/media/jquery.png": "/portyuna/static/media/jquery.5218d846e86fbcafcc5d.png",
+    "static/media/css.png": "/portyuna/static/media/css.1c2f7c29944bd1bf42f9.png",
+    "static/media/html.png": "/portyuna/static/media/html.4f0b7b38ed849be5eef8.png",
+    "static/media/js.png": "/portyuna/static/media/js.ec6e6e3af432b85fc233.png",
+    "static/media/todayDiary.png": "/portyuna/static/media/todayDiary.796b59193eec6978c1c5.png",
+    "static/media/react.png": "/portyuna/static/media/react.428839d4924b447d4d50.png",
+    "static/media/iconmonstr-certificate-15.svg": "/portyuna/static/media/iconmonstr-certificate-15.e7725c9c7fdcbdcde5803fb7b5a3d02f.svg",
+    "static/media/iconmonstr-school-24.svg": "/portyuna/static/media/iconmonstr-school-24.e30431af5718a724b212f3377e13b520.svg",
+    "static/media/iconmonstr-trophy-8.svg": "/portyuna/static/media/iconmonstr-trophy-8.83b0b68676c2301c1a4704d9d4b0e7f2.svg",
+    "index.html": "/portyuna/index.html",
+    "main.cc58c5f3.css.map": "/portyuna/static/css/main.cc58c5f3.css.map",
+    "main.1e57451f.js.map": "/portyuna/static/js/main.1e57451f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc58c5f3.css",
+    "static/js/main.1e57451f.js"
+  ]
+}
