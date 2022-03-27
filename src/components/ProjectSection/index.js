@@ -117,10 +117,10 @@ const ProjectSection = () => {
                                 </ProjectSKill>
                             </ProjectSKills>
                             <ProjectBtn>
-                                <FaLink/>Link
+                                <FaLink/><a href="https://seoyuna037.github.io/portyuna/">Link</a>
                             </ProjectBtn>
                             <ProjectGitBtn>
-                                <FaGithub/><a href="https://github.com/SeoYuna037/react">Github</a>
+                                <FaGithub/><a href="https://github.com/SeoYuna037/portyuna">Github</a>
                             </ProjectGitBtn>
                         </div>
                     </div>
