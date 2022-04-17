@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import SundayImg from '../../img/sundaycoffe-img1.png'
-import CockImg from '../../img/lets-drink.png'
+import eatImg from '../../img/must-eat.png'
 import DiaryImg from '../../img/todayDiary.png'
 import imageGetImg from '../../img/ImageGet.png'
 import projectImg from '../../img/portfolio2.png'
@@ -73,7 +73,7 @@ export const ProjectInfo=styled.div`
         transition: 3s;
     }
     .pro-img4{
-        background-image: url(${CockImg});
+        background-image: url(${eatImg});
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top;
