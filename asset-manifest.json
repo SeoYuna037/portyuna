@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portyuna/static/css/main.cc58c5f3.css",
-    "main.js": "/portyuna/static/js/main.9935efc2.js",
+    "main.js": "/portyuna/static/js/main.3726a370.js",
     "static/media/must-eat.png": "/portyuna/static/media/must-eat.0fff5c8c059d15cb000e.png",
     "static/media/sundaycoffe-img1.png": "/portyuna/static/media/sundaycoffe-img1.0e38f492b9f8b3bfe965.png",
     "static/media/computer-front-color.png": "/portyuna/static/media/computer-front-color.f4a59002f46aa236c81d.png",
@@ -24,10 +24,10 @@
     "static/media/iconmonstr-trophy-8.svg": "/portyuna/static/media/iconmonstr-trophy-8.83b0b68676c2301c1a4704d9d4b0e7f2.svg",
     "index.html": "/portyuna/index.html",
     "main.cc58c5f3.css.map": "/portyuna/static/css/main.cc58c5f3.css.map",
-    "main.9935efc2.js.map": "/portyuna/static/js/main.9935efc2.js.map"
+    "main.3726a370.js.map": "/portyuna/static/js/main.3726a370.js.map"
   },
   "entrypoints": [
     "static/css/main.cc58c5f3.css",
-    "static/js/main.9935efc2.js"
+    "static/js/main.3726a370.js"
   ]
 }
