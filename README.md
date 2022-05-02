@@ -34,4 +34,4 @@ Portfolio 사이트입니다. react를 이용하여 제작되었습니다.
 ```
 
 ### 사이트 
-<img src="https://user-images.githubusercontent.com/96972549/160275022-6fe39206-c38d-4bea-a0c3-7ca5fecda069.png">
+<img src="https://user-images.githubusercontent.com/96972549/166244454-d94947c5-6982-405b-8fed-974958d1bc96.png">
